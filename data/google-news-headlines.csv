@@ -1,52 +1,70 @@
-,datetime,headline
-0,2020-02-27 19:51,The 31 wildest lines from Donald Trump's self-congratulatory coronavirus press conference - CNN
-1,2020-02-27 19:51,Diagnosis Of Coronavirus Patient In California Was Delayed For Days - NPR
-2,2020-02-27 19:51,Molson Coors Shooting in Milwaukee: What We Know - The New York Times
-3,2020-02-27 19:51,Coronavirus 'could cause 2008-level economic damage' - live updates - The Guardian
-4,2020-02-27 19:51,Ex-Baltimore mayor sentenced to 3 years in prison for role in children's book deal scandal - CNN
-5,2020-02-27 19:51,Coronavirus: Japan schools to close for several weeks- BBC News - BBC News
-6,2020-02-27 19:51,Nancy Pelosi calls stock market plunge 'disturbing' as she pushes for coronavirus funding - CNBC
-7,2020-02-27 19:51,"Jimmy Kimmel mocks Pence's ability to tackle coronavirus: 'What's his plan, abstinence?' - Fox News"
-8,2020-02-27 19:51,‘Doomsday cult’ mom Lori Vallow returns to Idaho to face trial over missing kids - New York Post
-9,2020-02-27 19:51,Obama lawyer demands pro-Trump super PAC remove misleading Biden ad - CBS News
-10,2020-02-27 19:51,Death toll from Delhi's worst riots in decades rises to 38 - The Guardian
-11,2020-02-27 19:51,Canada to stop paying Harry and Meghan's security - BBC News
-12,2020-02-27 19:51,They Were Infected With the Coronavirus. They Never Showed Signs. - The New York Times
-13,2020-02-27 19:51,"Climate activists just blocked plans to expand Heathrow, one of the world's biggest airports - CNN"
-14,2020-02-27 19:51,Stock Market Plunges As Coronavirus Fears Grip Wall Street | Hallie Jackson | MSNBC - MSNBC
-15,2020-02-27 19:51,S&P 500 racing to quickest correction since the Great Depression - Financial Times
-16,2020-02-27 19:51,Playing The Flip Side - Seeking Alpha
-17,2020-02-27 19:51,Why I regret waiting to save for retirement until after student loans - Business Insider
-18,2020-02-27 19:51,"Reddit CEO says TikTok is ‘fundamentally parasitic,’ cites privacy concerns - The Verge"
-19,2020-02-27 19:51,Pandemic simulation game Plague Inc. pulled from iOS App Store in China - Ars Technica
-20,2020-02-27 19:51,You've just dropped cable TV? Here's what a cord-cutter should do next - TechHive
-21,2020-02-27 19:51,"Today’s top deals: $120 AirPods with wireless charging, huge Anker sale, $8 charging pad, $33 dome cam, Fire TV blowout, more - BGR"
-22,2020-02-27 19:51,Taylor Swift's 'The Man' music video leaves fans stunned as singer transforms into businessman - Fox News
-23,2020-02-27 19:51,'Candyman' trailer: Jordan Peele's remake mixes gore with gentrification - New York Post
-24,2020-02-27 19:51,Plácido Domingo says harassment apology gave 'false impression' - The Guardian
-25,2020-02-27 19:51,Polanski snubs French Oscars fearing 'lynching' - Yahoo News
-26,2020-02-27 19:51,NFLPA executive director DeMaurice Smith confident players will approve CBA - ESPN
-27,2020-02-27 19:51,Cincinnati Bengals 3-round mock draft ahead of NFL combine drills - Bengals Wire
-28,2020-02-27 19:51,Dear NHL GMs: Don't change a damn thing about the system that propelled a Zamboni driver into the spotlight - Yahoo Sports
-29,2020-02-27 19:51,"WHO is advising Tokyo 2020 Olympics organizers as coronavirus spreads, official says - CNBC"
-30,2020-02-27 19:51,China's rover probes deep below the surface of the far side of the Moon - physicsworld.com
-31,2020-02-27 19:51,Possible new 'minimoon' discovered orbiting Earth - Space.com
-32,2020-02-27 19:51,How to see Venus and a crescent moon side-by-side this Thursday - CNN
-33,2020-02-27 19:51,Salamanders and Frogs Hide a Glowing Secret - The New York Times
-34,2020-02-27 19:51,U.S. to Expand Coronavirus Testing After Delays in Surveillance - Bloomberg
-35,2020-02-27 19:51,"Obesity Rate in United States Rises to 42.4 Percent, per CDC Report - Newser"
-36,2020-02-27 19:51,Coronavirus: Planning Ahead At Home & Abroad - One Mile at a Time
-37,2020-02-27 19:51,Escaping Pandora's Box — Another Novel Coronavirus - nejm.org
-2,2020-02-27 19:57,South Korean Leader Said Coronavirus Would ‘Disappear.’ It Was a Costly Error. - The New York Times
-3,2020-02-27 19:57,Shooter at Milwaukee Molson Coors had a long-running dispute with a co-worker - USA TODAY
-4,2020-02-27 19:57,Coronavirus case with potential unknown origin in California - CBS News
-9,2020-02-27 19:57,20-foot waves may be coming to the Great Lakes - CNN
-12,2020-02-27 19:57,"Coronavirus death toll surges in Iran, Italy as spread continues - New York Post"
-17,2020-02-27 19:57,"Coronavirus could cost Trump the election, Goldman Sachs warns - CNN"
-18,2020-02-27 19:57,"New Roku TVs & Roku Players Are Coming in 2020: Here Is What We Know - Cord Cutters News, LLC"
-20,2020-02-27 19:57,I Used 'Minecraft' to Cope with My Apocalypse Anxiety - WIRED
-21,2020-02-27 19:57,Microsoft withdraws from GDC gaming conference over coronavirus concerns - TechCrunch
-28,2020-02-27 19:57,Carolina Hurricanes overnight star David Ayres should teach GMs a lesson - Yahoo Sports
-30,2020-02-27 19:57,"New ""mini-moon"" the size of a car is orbiting the Earth, astronomers say - CBS News"
-34,2020-02-27 19:57,"Coronavirus spreads faster outside China, stoking global fears - ARIRANG NEWS"
-35,2020-02-27 19:57,"Coronavirus Mortality Rate: How COVID-19 Fatalities Compare to Ebola, SARS and MERS - Newsweek"
+,Unnamed: 0,datetime,headline
+0,0.0,2020-02-27 19:51,The 31 wildest lines from Donald Trump's self-congratulatory coronavirus press conference - CNN
+1,1.0,2020-02-27 19:51,Diagnosis Of Coronavirus Patient In California Was Delayed For Days - NPR
+2,2.0,2020-02-27 19:51,Molson Coors Shooting in Milwaukee: What We Know - The New York Times
+3,3.0,2020-02-27 19:51,Coronavirus 'could cause 2008-level economic damage' - live updates - The Guardian
+4,4.0,2020-02-27 19:51,Ex-Baltimore mayor sentenced to 3 years in prison for role in children's book deal scandal - CNN
+5,5.0,2020-02-27 19:51,Coronavirus: Japan schools to close for several weeks- BBC News - BBC News
+6,6.0,2020-02-27 19:51,Nancy Pelosi calls stock market plunge 'disturbing' as she pushes for coronavirus funding - CNBC
+7,7.0,2020-02-27 19:51,"Jimmy Kimmel mocks Pence's ability to tackle coronavirus: 'What's his plan, abstinence?' - Fox News"
+8,8.0,2020-02-27 19:51,‘Doomsday cult’ mom Lori Vallow returns to Idaho to face trial over missing kids - New York Post
+9,9.0,2020-02-27 19:51,Obama lawyer demands pro-Trump super PAC remove misleading Biden ad - CBS News
+10,10.0,2020-02-27 19:51,Death toll from Delhi's worst riots in decades rises to 38 - The Guardian
+11,11.0,2020-02-27 19:51,Canada to stop paying Harry and Meghan's security - BBC News
+12,12.0,2020-02-27 19:51,They Were Infected With the Coronavirus. They Never Showed Signs. - The New York Times
+13,13.0,2020-02-27 19:51,"Climate activists just blocked plans to expand Heathrow, one of the world's biggest airports - CNN"
+14,14.0,2020-02-27 19:51,Stock Market Plunges As Coronavirus Fears Grip Wall Street | Hallie Jackson | MSNBC - MSNBC
+15,15.0,2020-02-27 19:51,S&P 500 racing to quickest correction since the Great Depression - Financial Times
+16,16.0,2020-02-27 19:51,Playing The Flip Side - Seeking Alpha
+17,17.0,2020-02-27 19:51,Why I regret waiting to save for retirement until after student loans - Business Insider
+18,18.0,2020-02-27 19:51,"Reddit CEO says TikTok is ‘fundamentally parasitic,’ cites privacy concerns - The Verge"
+19,19.0,2020-02-27 19:51,Pandemic simulation game Plague Inc. pulled from iOS App Store in China - Ars Technica
+20,20.0,2020-02-27 19:51,You've just dropped cable TV? Here's what a cord-cutter should do next - TechHive
+21,21.0,2020-02-27 19:51,"Today’s top deals: $120 AirPods with wireless charging, huge Anker sale, $8 charging pad, $33 dome cam, Fire TV blowout, more - BGR"
+22,22.0,2020-02-27 19:51,Taylor Swift's 'The Man' music video leaves fans stunned as singer transforms into businessman - Fox News
+23,23.0,2020-02-27 19:51,'Candyman' trailer: Jordan Peele's remake mixes gore with gentrification - New York Post
+24,24.0,2020-02-27 19:51,Plácido Domingo says harassment apology gave 'false impression' - The Guardian
+25,25.0,2020-02-27 19:51,Polanski snubs French Oscars fearing 'lynching' - Yahoo News
+26,26.0,2020-02-27 19:51,NFLPA executive director DeMaurice Smith confident players will approve CBA - ESPN
+27,27.0,2020-02-27 19:51,Cincinnati Bengals 3-round mock draft ahead of NFL combine drills - Bengals Wire
+28,28.0,2020-02-27 19:51,Dear NHL GMs: Don't change a damn thing about the system that propelled a Zamboni driver into the spotlight - Yahoo Sports
+29,29.0,2020-02-27 19:51,"WHO is advising Tokyo 2020 Olympics organizers as coronavirus spreads, official says - CNBC"
+30,30.0,2020-02-27 19:51,China's rover probes deep below the surface of the far side of the Moon - physicsworld.com
+31,31.0,2020-02-27 19:51,Possible new 'minimoon' discovered orbiting Earth - Space.com
+32,32.0,2020-02-27 19:51,How to see Venus and a crescent moon side-by-side this Thursday - CNN
+33,33.0,2020-02-27 19:51,Salamanders and Frogs Hide a Glowing Secret - The New York Times
+34,34.0,2020-02-27 19:51,U.S. to Expand Coronavirus Testing After Delays in Surveillance - Bloomberg
+35,35.0,2020-02-27 19:51,"Obesity Rate in United States Rises to 42.4 Percent, per CDC Report - Newser"
+36,36.0,2020-02-27 19:51,Coronavirus: Planning Ahead At Home & Abroad - One Mile at a Time
+37,37.0,2020-02-27 19:51,Escaping Pandora's Box — Another Novel Coronavirus - nejm.org
+38,2.0,2020-02-27 19:57,South Korean Leader Said Coronavirus Would ‘Disappear.’ It Was a Costly Error. - The New York Times
+39,3.0,2020-02-27 19:57,Shooter at Milwaukee Molson Coors had a long-running dispute with a co-worker - USA TODAY
+40,4.0,2020-02-27 19:57,Coronavirus case with potential unknown origin in California - CBS News
+41,9.0,2020-02-27 19:57,20-foot waves may be coming to the Great Lakes - CNN
+42,12.0,2020-02-27 19:57,"Coronavirus death toll surges in Iran, Italy as spread continues - New York Post"
+43,17.0,2020-02-27 19:57,"Coronavirus could cost Trump the election, Goldman Sachs warns - CNN"
+44,18.0,2020-02-27 19:57,"New Roku TVs & Roku Players Are Coming in 2020: Here Is What We Know - Cord Cutters News, LLC"
+45,20.0,2020-02-27 19:57,I Used 'Minecraft' to Cope with My Apocalypse Anxiety - WIRED
+46,21.0,2020-02-27 19:57,Microsoft withdraws from GDC gaming conference over coronavirus concerns - TechCrunch
+47,28.0,2020-02-27 19:57,Carolina Hurricanes overnight star David Ayres should teach GMs a lesson - Yahoo Sports
+48,30.0,2020-02-27 19:57,"New ""mini-moon"" the size of a car is orbiting the Earth, astronomers say - CBS News"
+49,34.0,2020-02-27 19:57,"Coronavirus spreads faster outside China, stoking global fears - ARIRANG NEWS"
+50,35.0,2020-02-27 19:57,"Coronavirus Mortality Rate: How COVID-19 Fatalities Compare to Ebola, SARS and MERS - Newsweek"
+3,,2020-02-27 20:31,Pence Will Control All Coronavirus Messaging From Health Officials - The New York Times
+7,,2020-02-27 20:31,"Lori Vallow, mother of missing children, will be returned to Idaho - CNN"
+9,,2020-02-27 20:31,"Lake-effect snowstorm could dump 40 inches in parts of New York, unusually late in the winter - Washington Post"
+10,,2020-02-27 20:31,Sanders blasts Trump for 'failure of leadership on human rights' after Indian anti-Muslim riots | TheHill - The Hill
+12,,2020-02-27 20:31,South Korea Reports Faster Coronavirus Spread Than in China - The Wall Street Journal
+13,,2020-02-27 20:31,New Delhi riots leave 38 dead as India balks at U.S. reaction to the religious violence - CBS News
+16,,2020-02-27 20:31,Gold price holding support around $1650 following in-line U.S. Q4 GDP data - Kitco NEWS
+21,,2020-02-27 20:31,"Comment: Why ‘OS Recovery’ is an obvious solution for iPhone, iPad, and Apple Watch [Video] - 9to5Mac"
+23,,2020-02-27 20:31,Hidden figure: how The Invisible Man preys on real-world female fears - The Guardian
+25,,2020-02-27 20:31,"48 Hours After Apologizing, Placido Domingo Rescinds His Statement - Rolling Stone"
+27,,2020-02-27 20:31,Source - Chiefs could use franchise tag on DT Chris Jones if no deal reached - ESPN
+28,,2020-02-27 20:31,2020 NFL Scouting Combine Preview Show - NFL
+31,,2020-02-27 20:31,Chinese moon rover peers beneath surface of mysterious lunar far side - Livescience.com
+32,,2020-02-27 20:31,Hidden island the size of Windsor Castle uncovered in Antarctica due to melting ice - Daily Mail
+33,,2020-02-27 20:31,How to see Venus shining with the moon tonight - Space.com
+35,,2020-02-27 20:31,"How to Prepare for a Coronavirus Outbreak Near You, According to Doctors - Prevention.com"
+36,,2020-02-27 20:31,Traveling amid the coronavirus outbreak: What you need to know - Fox News
+37,,2020-02-27 20:31,CDC recommends shaving facial hair to protect against coronavirus - KMOV.com
