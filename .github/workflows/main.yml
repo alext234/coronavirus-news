@@ -28,7 +28,7 @@ jobs:
         run: |
             git config --local user.email "action@github.com"
             git config --local user.name "GitHub Action"
-            git add data *.ipynb
+            git add data images *.ipynb
             git commit -m "Update data, images and notebooks"
       - name: Push to repo
         uses: ad-m/github-push-action@master
