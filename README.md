@@ -11,6 +11,6 @@ Another related repository is https://github.com/alext234/coronavirus-stats for 
 ## Google News
 ### Chart 
 
-Cumulative number of news headlines mentioning `coronavirus` or `covid-19`
+Cumulative number of news headlines mentioning corona virus related keywords.
 
 ![](images/google-news-headlines.png?raw=true)
