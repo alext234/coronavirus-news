@@ -22,7 +22,7 @@ jobs:
             pip install -r requirements.txt
       - name: Execute notebooks
         run: |
-            jupyter nbconvert --execute --inplace *.ipynb   --ExecutePreprocessor.timeout=300
+            jupyter nbconvert --execute --inplace *.ipynb   --ExecutePreprocessor.timeout=1800
             
       - name: Commit files 
         run: |
