@@ -6,6 +6,7 @@ Code is executed on schedule with Github Actions. Once completed, it will commit
 
 Another related repository is https://github.com/alext234/coronavirus-stats for cases statistics.
 
+&#8204;
 
 
 ## Google News
