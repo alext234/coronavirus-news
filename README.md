@@ -1,6 +1,5 @@
 ![](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Falext234%2Fcoronavirus-news%2Fmaster%2Fdata%2Fdata_stats.json)
 
-![Run notebooks and commit back](https://github.com/alext234/coronavirus-news/workflows/Run%20notebooks%20and%20commit%20back/badge.svg?branch=master)
 
 ## coronavirus-news
 
@@ -19,3 +18,7 @@ Another related repository is https://github.com/alext234/coronavirus-stats for 
 Cumulative number of news headlines mentioning corona virus related keywords.
 
 ![](images/google-news-headlines.png?raw=true)
+
+
+## Pipeline status
+![Run notebooks and commit back](https://github.com/alext234/coronavirus-news/workflows/Run%20notebooks%20and%20commit%20back/badge.svg?branch=master)
