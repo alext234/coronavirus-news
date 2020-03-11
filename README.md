@@ -1,5 +1,4 @@
-![](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Falext234%2Fcoronavirus-news%2Fmaster%2Fdata%2Fdata_stats.json)
-
+![](https://img.shields.io/endpoint?color=blue&url=https%3A%2F%2Fraw.githubusercontent.com%2Falext234%2Fcoronavirus-news%2Fmaster%2Fdata%2Fdata_stats.json)
 
 ## coronavirus-news
 
