@@ -1,3 +1,5 @@
+![Run notebooks and commit back](https://github.com/alext234/coronavirus-news/workflows/Run%20notebooks%20and%20commit%20back/badge.svg?branch=master)
+
 ## coronavirus-news
 
 This repository is an automated bot that scrape news headlines and track if they are related to corona-virus.
