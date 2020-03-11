@@ -1,3 +1,5 @@
+![](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Falext234%2Fcoronavirus-news%2Fmaster%2Fdata%2Fdata_stats.json)
+
 ![Run notebooks and commit back](https://github.com/alext234/coronavirus-news/workflows/Run%20notebooks%20and%20commit%20back/badge.svg?branch=master)
 
 ## coronavirus-news
