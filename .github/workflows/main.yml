@@ -21,8 +21,9 @@ jobs:
             python -m pip install --upgrade pip
             pip install -r requirements.txt
       - name: Execute notebooks
+        timeout-minutes: 45
         run: |
-            jupyter nbconvert --execute --inplace *.ipynb   --ExecutePreprocessor.timeout=1800
+            jupyter nbconvert --execute --inplace *.ipynb   --ExecutePreprocessor.timeout=2700 --debug
             
       - name: Commit files 
         run: |
