@@ -14,7 +14,9 @@ Another related repository is https://github.com/alext234/coronavirus-stats for 
 ## Google News
 ### Chart 
 
-Cumulative number of news headlines mentioning corona virus related keywords.
+News headlines from all google news domains (most countries and languages) are scraped hourly. 
+
+Below is the cumulative number of news headlines mentioning corona virus related keywords.
 
 ![](images/google-news-headlines.png?raw=true)
 
