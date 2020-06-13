@@ -1,12 +1,12 @@
 name: Run notebooks and commit back
 
-on:
-  push:
-    branches:
-      - master
-
-  schedule: # every hour
-    - cron:  '0 */1 * * *'
+#on:
+#  push:
+#    branches:
+#      - master
+#
+#  schedule: # every hour
+#    - cron:  '0 */1 * * *'
 
 jobs:
   execute_notebooks:
