@@ -1,5 +1,7 @@
 ![](https://img.shields.io/endpoint?color=blue&url=https%3A%2F%2Fraw.githubusercontent.com%2Falext234%2Fcoronavirus-news%2Fmaster%2Fdata%2Fdata_stats.json)
 
+**NOTE**: scrapper paused on 14 June due to a broken library. To resume once it is fixed.
+
 ## coronavirus-news
 
 This repository is an automated bot that scrape news headlines and track if they are related to corona-virus.
