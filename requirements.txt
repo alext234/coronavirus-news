@@ -1,2 +1,2 @@
-newscatcher==0.1.0
+newscatcher==0.2.0
 pandas==1.0.0
